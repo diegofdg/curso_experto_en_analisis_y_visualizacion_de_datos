@@ -1,0 +1,8 @@
+CREATE DATABASE midb;
+
+SHOW DATABASES;
+
+CREATE USER 'diego'@'localhost' IDENTIFIED BY 'root';
+
+GRANT ALL PRIVILEGES ON midb.* TO 'diego'@'localhost';
+FLUSH PRIVILEGES;
