@@ -1,0 +1,5 @@
+USE world;
+
+SELECT * FROM city LIMIT 0,5;
+
+SELECT * FROM city ORDER BY ID DESC LIMIT 0,5;
