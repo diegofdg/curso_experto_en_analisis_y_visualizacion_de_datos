@@ -1,0 +1,401 @@
+Usuario,Llamadas contestadas,Llamadas perdidas,Llamadas rechazadas,Llamadas derivadas,Tiempo hablado,Fecha llamada,Empresa,Área de trabajo,Motivo de llamada
+Adriana Figueras Burgos,7,46,0,7,2:27:12,2023-05-23,Camps Group,Ventas,Seguimiento de pedido
+Sofía Zaragoza Jove,61,39,17,25,3:19:37,2023-03-18,Andrés-Mateu,Soporte,Seguimiento de pedido
+Jafet de Montero,67,40,7,29,3:02:07,2023-05-16,Rovira Ltd,Ventas,Solicitud de información
+Elvira Leon Lloret,30,2,4,3,2:16:49,2023-06-05,Benítez Group,Soporte,Soporte técnico
+Tiburcio Izaguirre Egea,44,22,1,12,0:39:34,2023-04-12,Pérez-Blanco,Administración,Consulta de producto
+Laura de Barón,76,15,12,30,3:30:22,2023-05-21,Pérez-Blanco,Marketing,Soporte técnico
+Alondra Escobar Blázquez,6,0,6,26,0:43:35,2023-05-03,"Cabrera, Llano and Font",Marketing,Consulta de producto
+Anita Heras Gisbert,42,50,8,4,0:44:35,2023-03-26,Benítez Group,Soporte,Solicitud de información
+María Águila Sevilla,96,21,20,2,1:39:05,2023-05-20,"Milla, Terrón and Baeza",Desarrollo,Seguimiento de pedido
+Teobaldo Narciso Carlos Ortiz,41,3,3,28,2:36:00,2023-05-27,Pérez-Blanco,Administración,Reclamación de factura
+Raquel Soler,25,47,16,15,3:54:13,2023-05-18,"Milla, Terrón and Baeza",Soporte,Consulta de producto
+Amalia Nydia Iriarte Bejarano,72,31,11,23,1:58:42,2023-03-21,Pérez-Blanco,Ventas,Seguimiento de pedido
+Graciano Río Baños,38,26,16,12,2:01:07,2023-03-31,Pérez-Blanco,Administración,Seguimiento de pedido
+Gonzalo Nogués Galiano,62,27,1,19,3:42:40,2023-04-12,"Cabrera, Llano and Font",Soporte,Reclamación de factura
+Pascual Larrea Bermúdez,54,2,18,21,1:41:44,2023-05-13,Camps Group,Administración,Consulta de producto
+Marciano Mateu Cordero,80,40,16,16,2:20:09,2023-05-31,"Cantón, Manzanares and Gisbert",Soporte,Solicitud de información
+Aitor Pardo Crespo,86,3,9,23,1:33:30,2023-04-28,"Cabrera, Llano and Font",Desarrollo,Consulta de producto
+Isa Ureña Larrea,38,11,10,24,2:16:48,2023-03-24,Camps Group,Ventas,Solicitud de información
+Alexandra Castilla Giner,17,41,1,27,3:48:04,2023-05-14,"Cantón, Manzanares and Gisbert",Administración,Consulta de producto
+Josep Galvez,68,26,8,3,3:49:09,2023-04-18,Anaya and Sons,Marketing,Soporte técnico
+Cintia Bernal Boada,37,15,3,30,3:46:16,2023-04-18,Pérez-Blanco,Soporte,Soporte técnico
+Eutimio Nicolás Muro,10,2,10,5,1:16:36,2023-03-22,Rovira Ltd,Administración,Reclamación de factura
+Berto Cuenca Romeu,100,50,15,12,0:21:09,2023-06-05,"Solera, Padilla and Oliva",Desarrollo,Consulta de producto
+María Teresa de Rey,34,7,6,26,3:04:06,2023-03-24,"Solera, Padilla and Oliva",Desarrollo,Solicitud de información
+Edelmira Verdugo-Lucas,68,1,12,6,0:13:31,2023-05-24,Camps Group,Soporte,Seguimiento de pedido
+Vicenta Benet Castilla,38,2,14,15,0:23:17,2023-05-22,"Cantón, Manzanares and Gisbert",Marketing,Solicitud de información
+Albert del Cózar,38,17,3,18,2:35:06,2023-05-18,Pérez-Blanco,Administración,Reclamación de factura
+Merche Sandoval Pozo,30,17,20,8,2:49:55,2023-03-29,Rovira Ltd,Ventas,Seguimiento de pedido
+Irene Cruz Colomer,20,22,18,28,2:07:39,2023-03-31,Camps Group,Ventas,Solicitud de información
+Che del Vallés,18,39,13,29,1:57:24,2023-06-04,Benítez Group,Marketing,Solicitud de información
+José Mari Posada Serra,63,13,18,16,0:08:11,2023-03-22,Camps Group,Administración,Seguimiento de pedido
+Agustina Ureña Mora,69,14,16,6,3:17:26,2023-04-08,"Solera, Padilla and Oliva",Administración,Soporte técnico
+Toño Vives Madrigal,49,8,12,10,2:21:34,2023-05-27,Anaya and Sons,Marketing,Soporte técnico
+Delfina Tejada Echeverría,23,29,2,2,1:50:19,2023-03-27,Camps Group,Administración,Soporte técnico
+Noemí Luna-Ramos,47,7,6,25,1:16:32,2023-05-13,Pérez-Blanco,Marketing,Consulta de producto
+Nilda Domínguez-Zabaleta,62,44,16,12,3:07:24,2023-04-08,Benítez Group,Desarrollo,Solicitud de información
+Emma Guzman Llopis,21,29,17,0,0:19:08,2023-03-19,"Cantón, Manzanares and Gisbert",Marketing,Solicitud de información
+María Ángeles Prado Ledesma,43,7,0,13,2:55:12,2023-04-04,Pérez-Blanco,Soporte,Seguimiento de pedido
+Josefina Rius Bueno,41,27,19,19,0:24:09,2023-04-30,Pérez-Blanco,Marketing,Consulta de producto
+Itziar Ferrando Hernandez,91,47,19,12,3:36:59,2023-04-09,"Solera, Padilla and Oliva",Administración,Solicitud de información
+Tecla Valera Serra,32,17,16,13,0:57:44,2023-05-08,Benítez Group,Ventas,Reclamación de factura
+Cándido de Ramis,0,2,8,24,1:11:58,2023-04-13,"Milla, Terrón and Baeza",Ventas,Reclamación de factura
+Emiliana Barros Pérez,13,22,4,21,1:50:19,2023-06-02,Rovira Ltd,Marketing,Reclamación de factura
+Ernesto Leoncio Osuna Capdevila,26,49,17,3,1:25:29,2023-05-23,Camps Group,Ventas,Solicitud de información
+Balduino Arana Dueñas,93,4,6,6,0:02:47,2023-03-22,"Solera, Padilla and Oliva",Ventas,Soporte técnico
+Ariel Peñas Bilbao,76,12,10,9,3:43:08,2023-03-13,Benítez Group,Ventas,Consulta de producto
+Jesusa Barceló Rubio,67,42,17,7,3:12:27,2023-04-28,"Milla, Terrón and Baeza",Marketing,Soporte técnico
+Azahara Saavedra Sevilla,71,28,12,14,3:57:01,2023-05-05,"Solera, Padilla and Oliva",Marketing,Solicitud de información
+Lorenza Gárate Salgado,72,13,19,5,0:02:04,2023-04-14,"Milla, Terrón and Baeza",Desarrollo,Solicitud de información
+Venceslás Vicente Carballo,48,23,20,24,0:30:42,2023-04-20,Anaya and Sons,Administración,Consulta de producto
+Julieta Montesinos Lledó,28,5,17,15,3:55:47,2023-04-09,"Cantón, Manzanares and Gisbert",Soporte,Reclamación de factura
+Adrián Rosell Beltrán,97,45,14,8,0:52:11,2023-04-17,Benítez Group,Administración,Reclamación de factura
+Amaro Berto Vaquero Ojeda,91,10,19,6,3:24:56,2023-04-21,"Solera, Padilla and Oliva",Administración,Soporte técnico
+Lázaro del Raya,35,9,20,3,0:16:41,2023-03-20,Benítez Group,Desarrollo,Seguimiento de pedido
+Filomena Laguna Vallejo,90,12,1,11,0:05:39,2023-06-06,Anaya and Sons,Marketing,Consulta de producto
+Jose Francisco Barrena-Pinedo,74,15,11,18,2:05:20,2023-03-26,Anaya and Sons,Soporte,Seguimiento de pedido
+Hector Bosch Ramírez,58,18,7,4,3:58:33,2023-05-13,"Solera, Padilla and Oliva",Ventas,Seguimiento de pedido
+Augusto Guardiola,43,43,19,20,2:01:29,2023-05-15,"Cantón, Manzanares and Gisbert",Desarrollo,Solicitud de información
+Baudelio Pozo Lobato,47,26,9,29,2:15:35,2023-04-12,Anaya and Sons,Soporte,Soporte técnico
+Pablo Augusto Cepeda Galindo,92,13,20,20,0:04:54,2023-03-24,Andrés-Mateu,Soporte,Consulta de producto
+Isidro Larrañaga Bosch,0,4,10,21,3:49:36,2023-04-08,Andrés-Mateu,Ventas,Soporte técnico
+Primitivo Fidel Alberto Ayuso,90,12,7,10,0:24:43,2023-05-21,"Cantón, Manzanares and Gisbert",Soporte,Soporte técnico
+Rufina Bautista Álvarez,56,24,20,25,1:55:19,2023-05-26,Pérez-Blanco,Marketing,Soporte técnico
+José Manuel Cabeza Lloret,41,28,7,25,3:29:51,2023-05-31,Rovira Ltd,Marketing,Seguimiento de pedido
+Dorita Fuentes,42,39,9,12,3:03:48,2023-04-05,"Cantón, Manzanares and Gisbert",Desarrollo,Consulta de producto
+Sancho Luciano Leiva Carlos,45,38,18,16,1:08:38,2023-04-14,"Cantón, Manzanares and Gisbert",Desarrollo,Seguimiento de pedido
+Amanda Lastra Paniagua,23,21,4,21,3:47:37,2023-04-28,"Cabrera, Llano and Font",Administración,Reclamación de factura
+Jacinta Castejón Crespi,9,1,0,28,1:20:09,2023-03-10,Rovira Ltd,Marketing,Seguimiento de pedido
+Nadia Hierro Codina,50,15,16,3,3:01:16,2023-03-30,"Cantón, Manzanares and Gisbert",Marketing,Solicitud de información
+Sandra Barriga Villena,71,45,20,15,1:58:26,2023-06-01,Benítez Group,Soporte,Solicitud de información
+Elpidio Herrero Cózar,72,35,20,17,3:20:13,2023-05-07,Rovira Ltd,Soporte,Reclamación de factura
+Gastón Acero Villalba,80,47,19,15,1:55:26,2023-03-28,Rovira Ltd,Soporte,Seguimiento de pedido
+Salud Antúnez Mariño,3,16,8,25,1:12:56,2023-05-13,Pérez-Blanco,Marketing,Reclamación de factura
+Elpidio Guillen Elorza,53,50,13,11,1:56:37,2023-05-31,Andrés-Mateu,Soporte,Soporte técnico
+Alicia Nogués Querol,8,20,13,6,1:30:13,2023-04-14,Anaya and Sons,Soporte,Seguimiento de pedido
+Maxi Martinez-Alemán,92,25,7,0,1:24:32,2023-03-20,"Cabrera, Llano and Font",Desarrollo,Solicitud de información
+Aníbal Tamarit Grande,50,6,12,21,3:23:49,2023-04-01,Camps Group,Marketing,Reclamación de factura
+Jordi Chaparro Campoy,22,18,20,21,0:59:43,2023-03-20,"Cantón, Manzanares and Gisbert",Marketing,Reclamación de factura
+Benjamín Lago Puig,1,48,16,14,0:20:06,2023-04-14,Anaya and Sons,Administración,Seguimiento de pedido
+Aníbal Pont Velasco,84,17,15,1,3:14:56,2023-03-19,Camps Group,Soporte,Soporte técnico
+Reynaldo Cañete,21,32,9,18,0:04:19,2023-04-16,Rovira Ltd,Marketing,Solicitud de información
+Hortensia de Casal,61,11,12,1,2:40:16,2023-03-22,Andrés-Mateu,Marketing,Soporte técnico
+Alba del Gelabert,73,19,3,10,1:02:55,2023-04-04,"Milla, Terrón and Baeza",Administración,Reclamación de factura
+Chema Machado Tomás,45,4,18,27,2:10:55,2023-05-09,"Solera, Padilla and Oliva",Marketing,Consulta de producto
+Clotilde Valenzuela Sastre,7,18,8,5,2:58:17,2023-05-12,Rovira Ltd,Soporte,Consulta de producto
+Jose Manuel Donaire Durán,16,45,9,4,3:09:59,2023-04-07,Anaya and Sons,Administración,Reclamación de factura
+Olimpia Martorell,99,26,17,5,1:34:54,2023-04-02,"Milla, Terrón and Baeza",Marketing,Solicitud de información
+Feliciana Rodríguez Domínguez,12,50,9,29,2:14:06,2023-04-13,Pérez-Blanco,Ventas,Reclamación de factura
+Matilde Becerra-Moles,79,39,2,24,0:44:54,2023-06-05,Benítez Group,Marketing,Solicitud de información
+Toribio Olmedo Sans,13,48,1,28,3:56:06,2023-03-29,Camps Group,Soporte,Solicitud de información
+Apolonia Alegria Barriga,11,7,5,26,3:55:50,2023-03-14,"Solera, Padilla and Oliva",Desarrollo,Soporte técnico
+Candelaria Arnal Álamo,44,14,16,23,3:53:38,2023-05-20,"Milla, Terrón and Baeza",Marketing,Soporte técnico
+Eladio Zamorano Guardiola,0,30,3,11,3:50:27,2023-03-14,Rovira Ltd,Desarrollo,Reclamación de factura
+Dionisio de Barberá,4,15,7,5,1:05:54,2023-04-23,Benítez Group,Ventas,Reclamación de factura
+Segismundo Bilbao,11,3,20,28,1:56:34,2023-03-15,Rovira Ltd,Soporte,Reclamación de factura
+Filomena Lorena Lobo Ariza,61,46,8,10,2:00:55,2023-05-21,"Cantón, Manzanares and Gisbert",Soporte,Solicitud de información
+Jessica Quiroga Oliva,99,47,14,18,2:43:38,2023-04-14,Rovira Ltd,Soporte,Reclamación de factura
+Marita Arjona-Torrents,86,27,14,16,1:54:07,2023-05-15,"Solera, Padilla and Oliva",Desarrollo,Reclamación de factura
+María Reina Bru,0,27,15,24,3:24:33,2023-05-10,Rovira Ltd,Ventas,Solicitud de información
+Agustín Arce Amorós,4,26,1,18,2:08:42,2023-04-24,Pérez-Blanco,Soporte,Reclamación de factura
+Adriana Figueras Burgos,7,46,0,7,2:27:12,2023-05-23,Camps Group,Ventas,Seguimiento de pedido
+Sofía Zaragoza Jove,61,39,17,25,3:19:37,2023-03-18,Andrés-Mateu,Soporte,Seguimiento de pedido
+Jafet de Montero,67,40,7,29,3:02:07,2023-05-16,Rovira Ltd,Ventas,Solicitud de información
+Elvira Leon Lloret,30,2,4,3,2:16:49,2023-06-05,Benítez Group,Soporte,Soporte técnico
+Tiburcio Izaguirre Egea,44,22,1,12,0:39:34,2023-04-12,Pérez-Blanco,Administración,Consulta de producto
+Laura de Barón,76,15,12,30,3:30:22,2023-05-21,Pérez-Blanco,Marketing,Soporte técnico
+Alondra Escobar Blázquez,6,0,6,26,0:43:35,2023-05-03,"Cabrera, Llano and Font",Marketing,Consulta de producto
+Anita Heras Gisbert,42,50,8,4,0:44:35,2023-03-26,Benítez Group,Soporte,Solicitud de información
+María Águila Sevilla,96,21,20,2,1:39:05,2023-05-20,"Milla, Terrón and Baeza",Desarrollo,Seguimiento de pedido
+Teobaldo Narciso Carlos Ortiz,41,3,3,28,2:36:00,2023-05-27,Pérez-Blanco,Administración,Reclamación de factura
+Raquel Soler,25,47,16,15,3:54:13,2023-05-18,"Milla, Terrón and Baeza",Soporte,Consulta de producto
+Amalia Nydia Iriarte Bejarano,72,31,11,23,1:58:42,2023-03-21,Pérez-Blanco,Ventas,Seguimiento de pedido
+Graciano Río Baños,38,26,16,12,2:01:07,2023-03-31,Pérez-Blanco,Administración,Seguimiento de pedido
+Gonzalo Nogués Galiano,62,27,1,19,3:42:40,2023-04-12,"Cabrera, Llano and Font",Soporte,Reclamación de factura
+Pascual Larrea Bermúdez,54,2,18,21,1:41:44,2023-05-13,Camps Group,Administración,Consulta de producto
+Marciano Mateu Cordero,80,40,16,16,2:20:09,2023-05-31,"Cantón, Manzanares and Gisbert",Soporte,Solicitud de información
+Aitor Pardo Crespo,86,3,9,23,1:33:30,2023-04-28,"Cabrera, Llano and Font",Desarrollo,Consulta de producto
+Isa Ureña Larrea,38,11,10,24,2:16:48,2023-03-24,Camps Group,Ventas,Solicitud de información
+Alexandra Castilla Giner,17,41,1,27,3:48:04,2023-05-14,"Cantón, Manzanares and Gisbert",Administración,Consulta de producto
+Josep Galvez,68,26,8,3,3:49:09,2023-04-18,Anaya and Sons,Marketing,Soporte técnico
+Cintia Bernal Boada,37,15,3,30,3:46:16,2023-04-18,Pérez-Blanco,Soporte,Soporte técnico
+Eutimio Nicolás Muro,10,2,10,5,1:16:36,2023-03-22,Rovira Ltd,Administración,Reclamación de factura
+Berto Cuenca Romeu,100,50,15,12,0:21:09,2023-06-05,"Solera, Padilla and Oliva",Desarrollo,Consulta de producto
+María Teresa de Rey,34,7,6,26,3:04:06,2023-03-24,"Solera, Padilla and Oliva",Desarrollo,Solicitud de información
+Edelmira Verdugo-Lucas,68,1,12,6,0:13:31,2023-05-24,Camps Group,Soporte,Seguimiento de pedido
+Vicenta Benet Castilla,38,2,14,15,0:23:17,2023-05-22,"Cantón, Manzanares and Gisbert",Marketing,Solicitud de información
+Albert del Cózar,38,17,3,18,2:35:06,2023-05-18,Pérez-Blanco,Administración,Reclamación de factura
+Merche Sandoval Pozo,30,17,20,8,2:49:55,2023-03-29,Rovira Ltd,Ventas,Seguimiento de pedido
+Irene Cruz Colomer,20,22,18,28,2:07:39,2023-03-31,Camps Group,Ventas,Solicitud de información
+Che del Vallés,18,39,13,29,1:57:24,2023-06-04,Benítez Group,Marketing,Solicitud de información
+José Mari Posada Serra,63,13,18,16,0:08:11,2023-03-22,Camps Group,Administración,Seguimiento de pedido
+Agustina Ureña Mora,69,14,16,6,3:17:26,2023-04-08,"Solera, Padilla and Oliva",Administración,Soporte técnico
+Toño Vives Madrigal,49,8,12,10,2:21:34,2023-05-27,Anaya and Sons,Marketing,Soporte técnico
+Delfina Tejada Echeverría,23,29,2,2,1:50:19,2023-03-27,Camps Group,Administración,Soporte técnico
+Noemí Luna-Ramos,47,7,6,25,1:16:32,2023-05-13,Pérez-Blanco,Marketing,Consulta de producto
+Nilda Domínguez-Zabaleta,62,44,16,12,3:07:24,2023-04-08,Benítez Group,Desarrollo,Solicitud de información
+Emma Guzman Llopis,21,29,17,0,0:19:08,2023-03-19,"Cantón, Manzanares and Gisbert",Marketing,Solicitud de información
+María Ángeles Prado Ledesma,43,7,0,13,2:55:12,2023-04-04,Pérez-Blanco,Soporte,Seguimiento de pedido
+Josefina Rius Bueno,41,27,19,19,0:24:09,2023-04-30,Pérez-Blanco,Marketing,Consulta de producto
+Itziar Ferrando Hernandez,91,47,19,12,3:36:59,2023-04-09,"Solera, Padilla and Oliva",Administración,Solicitud de información
+Tecla Valera Serra,32,17,16,13,0:57:44,2023-05-08,Benítez Group,Ventas,Reclamación de factura
+Cándido de Ramis,0,2,8,24,1:11:58,2023-04-13,"Milla, Terrón and Baeza",Ventas,Reclamación de factura
+Emiliana Barros Pérez,13,22,4,21,1:50:19,2023-06-02,Rovira Ltd,Marketing,Reclamación de factura
+Ernesto Leoncio Osuna Capdevila,26,49,17,3,1:25:29,2023-05-23,Camps Group,Ventas,Solicitud de información
+Balduino Arana Dueñas,93,4,6,6,0:02:47,2023-03-22,"Solera, Padilla and Oliva",Ventas,Soporte técnico
+Ariel Peñas Bilbao,76,12,10,9,3:43:08,2023-03-13,Benítez Group,Ventas,Consulta de producto
+Jesusa Barceló Rubio,67,42,17,7,3:12:27,2023-04-28,"Milla, Terrón and Baeza",Marketing,Soporte técnico
+Azahara Saavedra Sevilla,71,28,12,14,3:57:01,2023-05-05,"Solera, Padilla and Oliva",Marketing,Solicitud de información
+Lorenza Gárate Salgado,72,13,19,5,0:02:04,2023-04-14,"Milla, Terrón and Baeza",Desarrollo,Solicitud de información
+Venceslás Vicente Carballo,48,23,20,24,0:30:42,2023-04-20,Anaya and Sons,Administración,Consulta de producto
+Julieta Montesinos Lledó,28,5,17,15,3:55:47,2023-04-09,"Cantón, Manzanares and Gisbert",Soporte,Reclamación de factura
+Adrián Rosell Beltrán,97,45,14,8,0:52:11,2023-04-17,Benítez Group,Administración,Reclamación de factura
+Amaro Berto Vaquero Ojeda,91,10,19,6,3:24:56,2023-04-21,"Solera, Padilla and Oliva",Administración,Soporte técnico
+Lázaro del Raya,35,9,20,3,0:16:41,2023-03-20,Benítez Group,Desarrollo,Seguimiento de pedido
+Filomena Laguna Vallejo,90,12,1,11,0:05:39,2023-06-06,Anaya and Sons,Marketing,Consulta de producto
+Jose Francisco Barrena-Pinedo,74,15,11,18,2:05:20,2023-03-26,Anaya and Sons,Soporte,Seguimiento de pedido
+Hector Bosch Ramírez,58,18,7,4,3:58:33,2023-05-13,"Solera, Padilla and Oliva",Ventas,Seguimiento de pedido
+Augusto Guardiola,43,43,19,20,2:01:29,2023-05-15,"Cantón, Manzanares and Gisbert",Desarrollo,Solicitud de información
+Baudelio Pozo Lobato,47,26,9,29,2:15:35,2023-04-12,Anaya and Sons,Soporte,Soporte técnico
+Pablo Augusto Cepeda Galindo,92,13,20,20,0:04:54,2023-03-24,Andrés-Mateu,Soporte,Consulta de producto
+Isidro Larrañaga Bosch,0,4,10,21,3:49:36,2023-04-08,Andrés-Mateu,Ventas,Soporte técnico
+Primitivo Fidel Alberto Ayuso,90,12,7,10,0:24:43,2023-05-21,"Cantón, Manzanares and Gisbert",Soporte,Soporte técnico
+Rufina Bautista Álvarez,56,24,20,25,1:55:19,2023-05-26,Pérez-Blanco,Marketing,Soporte técnico
+José Manuel Cabeza Lloret,41,28,7,25,3:29:51,2023-05-31,Rovira Ltd,Marketing,Seguimiento de pedido
+Dorita Fuentes,42,39,9,12,3:03:48,2023-04-05,"Cantón, Manzanares and Gisbert",Desarrollo,Consulta de producto
+Sancho Luciano Leiva Carlos,45,38,18,16,1:08:38,2023-04-14,"Cantón, Manzanares and Gisbert",Desarrollo,Seguimiento de pedido
+Amanda Lastra Paniagua,23,21,4,21,3:47:37,2023-04-28,"Cabrera, Llano and Font",Administración,Reclamación de factura
+Jacinta Castejón Crespi,9,1,0,28,1:20:09,2023-03-10,Rovira Ltd,Marketing,Seguimiento de pedido
+Nadia Hierro Codina,50,15,16,3,3:01:16,2023-03-30,"Cantón, Manzanares and Gisbert",Marketing,Solicitud de información
+Sandra Barriga Villena,71,45,20,15,1:58:26,2023-06-01,Benítez Group,Soporte,Solicitud de información
+Elpidio Herrero Cózar,72,35,20,17,3:20:13,2023-05-07,Rovira Ltd,Soporte,Reclamación de factura
+Gastón Acero Villalba,80,47,19,15,1:55:26,2023-03-28,Rovira Ltd,Soporte,Seguimiento de pedido
+Salud Antúnez Mariño,3,16,8,25,1:12:56,2023-05-13,Pérez-Blanco,Marketing,Reclamación de factura
+Elpidio Guillen Elorza,53,50,13,11,1:56:37,2023-05-31,Andrés-Mateu,Soporte,Soporte técnico
+Alicia Nogués Querol,8,20,13,6,1:30:13,2023-04-14,Anaya and Sons,Soporte,Seguimiento de pedido
+Maxi Martinez-Alemán,92,25,7,0,1:24:32,2023-03-20,"Cabrera, Llano and Font",Desarrollo,Solicitud de información
+Aníbal Tamarit Grande,50,6,12,21,3:23:49,2023-04-01,Camps Group,Marketing,Reclamación de factura
+Jordi Chaparro Campoy,22,18,20,21,0:59:43,2023-03-20,"Cantón, Manzanares and Gisbert",Marketing,Reclamación de factura
+Benjamín Lago Puig,1,48,16,14,0:20:06,2023-04-14,Anaya and Sons,Administración,Seguimiento de pedido
+Aníbal Pont Velasco,84,17,15,1,3:14:56,2023-03-19,Camps Group,Soporte,Soporte técnico
+Reynaldo Cañete,21,32,9,18,0:04:19,2023-04-16,Rovira Ltd,Marketing,Solicitud de información
+Hortensia de Casal,61,11,12,1,2:40:16,2023-03-22,Andrés-Mateu,Marketing,Soporte técnico
+Alba del Gelabert,73,19,3,10,1:02:55,2023-04-04,"Milla, Terrón and Baeza",Administración,Reclamación de factura
+Chema Machado Tomás,45,4,18,27,2:10:55,2023-05-09,"Solera, Padilla and Oliva",Marketing,Consulta de producto
+Clotilde Valenzuela Sastre,7,18,8,5,2:58:17,2023-05-12,Rovira Ltd,Soporte,Consulta de producto
+Jose Manuel Donaire Durán,16,45,9,4,3:09:59,2023-04-07,Anaya and Sons,Administración,Reclamación de factura
+Olimpia Martorell,99,26,17,5,1:34:54,2023-04-02,"Milla, Terrón and Baeza",Marketing,Solicitud de información
+Feliciana Rodríguez Domínguez,12,50,9,29,2:14:06,2023-04-13,Pérez-Blanco,Ventas,Reclamación de factura
+Matilde Becerra-Moles,79,39,2,24,0:44:54,2023-06-05,Benítez Group,Marketing,Solicitud de información
+Toribio Olmedo Sans,13,48,1,28,3:56:06,2023-03-29,Camps Group,Soporte,Solicitud de información
+Apolonia Alegria Barriga,11,7,5,26,3:55:50,2023-03-14,"Solera, Padilla and Oliva",Desarrollo,Soporte técnico
+Candelaria Arnal Álamo,44,14,16,23,3:53:38,2023-05-20,"Milla, Terrón and Baeza",Marketing,Soporte técnico
+Eladio Zamorano Guardiola,0,30,3,11,3:50:27,2023-03-14,Rovira Ltd,Desarrollo,Reclamación de factura
+Dionisio de Barberá,4,15,7,5,1:05:54,2023-04-23,Benítez Group,Ventas,Reclamación de factura
+Segismundo Bilbao,11,3,20,28,1:56:34,2023-03-15,Rovira Ltd,Soporte,Reclamación de factura
+Filomena Lorena Lobo Ariza,61,46,8,10,2:00:55,2023-05-21,"Cantón, Manzanares and Gisbert",Soporte,Solicitud de información
+Jessica Quiroga Oliva,99,47,14,18,2:43:38,2023-04-14,Rovira Ltd,Soporte,Reclamación de factura
+Marita Arjona-Torrents,86,27,14,16,1:54:07,2023-05-15,"Solera, Padilla and Oliva",Desarrollo,Reclamación de factura
+María Reina Bru,0,27,15,24,3:24:33,2023-05-10,Rovira Ltd,Ventas,Solicitud de información
+Agustín Arce Amorós,4,26,1,18,2:08:42,2023-04-24,Pérez-Blanco,Soporte,Reclamación de factura
+Adriana Figueras Burgos,7,46,0,7,2:27:12,2023-05-23,Camps Group,Ventas,Seguimiento de pedido
+Sofía Zaragoza Jove,61,39,17,25,3:19:37,2023-03-18,Andrés-Mateu,Soporte,Seguimiento de pedido
+Jafet de Montero,67,40,7,29,3:02:07,2023-05-16,Rovira Ltd,Ventas,Solicitud de información
+Elvira Leon Lloret,30,2,4,3,2:16:49,2023-06-05,Benítez Group,Soporte,Soporte técnico
+Tiburcio Izaguirre Egea,44,22,1,12,0:39:34,2023-04-12,Pérez-Blanco,Administración,Consulta de producto
+Laura de Barón,76,15,12,30,3:30:22,2023-05-21,Pérez-Blanco,Marketing,Soporte técnico
+Alondra Escobar Blázquez,6,0,6,26,0:43:35,2023-05-03,"Cabrera, Llano and Font",Marketing,Consulta de producto
+Anita Heras Gisbert,42,50,8,4,0:44:35,2023-03-26,Benítez Group,Soporte,Solicitud de información
+María Águila Sevilla,96,21,20,2,1:39:05,2023-05-20,"Milla, Terrón and Baeza",Desarrollo,Seguimiento de pedido
+Teobaldo Narciso Carlos Ortiz,41,3,3,28,2:36:00,2023-05-27,Pérez-Blanco,Administración,Reclamación de factura
+Raquel Soler,25,47,16,15,3:54:13,2023-05-18,"Milla, Terrón and Baeza",Soporte,Consulta de producto
+Amalia Nydia Iriarte Bejarano,72,31,11,23,1:58:42,2023-03-21,Pérez-Blanco,Ventas,Seguimiento de pedido
+Graciano Río Baños,38,26,16,12,2:01:07,2023-03-31,Pérez-Blanco,Administración,Seguimiento de pedido
+Gonzalo Nogués Galiano,62,27,1,19,3:42:40,2023-04-12,"Cabrera, Llano and Font",Soporte,Reclamación de factura
+Pascual Larrea Bermúdez,54,2,18,21,1:41:44,2023-05-13,Camps Group,Administración,Consulta de producto
+Marciano Mateu Cordero,80,40,16,16,2:20:09,2023-05-31,"Cantón, Manzanares and Gisbert",Soporte,Solicitud de información
+Aitor Pardo Crespo,86,3,9,23,1:33:30,2023-04-28,"Cabrera, Llano and Font",Desarrollo,Consulta de producto
+Isa Ureña Larrea,38,11,10,24,2:16:48,2023-03-24,Camps Group,Ventas,Solicitud de información
+Alexandra Castilla Giner,17,41,1,27,3:48:04,2023-05-14,"Cantón, Manzanares and Gisbert",Administración,Consulta de producto
+Josep Galvez,68,26,8,3,3:49:09,2023-04-18,Anaya and Sons,Marketing,Soporte técnico
+Cintia Bernal Boada,37,15,3,30,3:46:16,2023-04-18,Pérez-Blanco,Soporte,Soporte técnico
+Eutimio Nicolás Muro,10,2,10,5,1:16:36,2023-03-22,Rovira Ltd,Administración,Reclamación de factura
+Berto Cuenca Romeu,100,50,15,12,0:21:09,2023-06-05,"Solera, Padilla and Oliva",Desarrollo,Consulta de producto
+María Teresa de Rey,34,7,6,26,3:04:06,2023-03-24,"Solera, Padilla and Oliva",Desarrollo,Solicitud de información
+Edelmira Verdugo-Lucas,68,1,12,6,0:13:31,2023-05-24,Camps Group,Soporte,Seguimiento de pedido
+Vicenta Benet Castilla,38,2,14,15,0:23:17,2023-05-22,"Cantón, Manzanares and Gisbert",Marketing,Solicitud de información
+Albert del Cózar,38,17,3,18,2:35:06,2023-05-18,Pérez-Blanco,Administración,Reclamación de factura
+Merche Sandoval Pozo,30,17,20,8,2:49:55,2023-03-29,Rovira Ltd,Ventas,Seguimiento de pedido
+Irene Cruz Colomer,20,22,18,28,2:07:39,2023-03-31,Camps Group,Ventas,Solicitud de información
+Che del Vallés,18,39,13,29,1:57:24,2023-06-04,Benítez Group,Marketing,Solicitud de información
+José Mari Posada Serra,63,13,18,16,0:08:11,2023-03-22,Camps Group,Administración,Seguimiento de pedido
+Agustina Ureña Mora,69,14,16,6,3:17:26,2023-04-08,"Solera, Padilla and Oliva",Administración,Soporte técnico
+Toño Vives Madrigal,49,8,12,10,2:21:34,2023-05-27,Anaya and Sons,Marketing,Soporte técnico
+Delfina Tejada Echeverría,23,29,2,2,1:50:19,2023-03-27,Camps Group,Administración,Soporte técnico
+Noemí Luna-Ramos,47,7,6,25,1:16:32,2023-05-13,Pérez-Blanco,Marketing,Consulta de producto
+Nilda Domínguez-Zabaleta,62,44,16,12,3:07:24,2023-04-08,Benítez Group,Desarrollo,Solicitud de información
+Emma Guzman Llopis,21,29,17,0,0:19:08,2023-03-19,"Cantón, Manzanares and Gisbert",Marketing,Solicitud de información
+María Ángeles Prado Ledesma,43,7,0,13,2:55:12,2023-04-04,Pérez-Blanco,Soporte,Seguimiento de pedido
+Josefina Rius Bueno,41,27,19,19,0:24:09,2023-04-30,Pérez-Blanco,Marketing,Consulta de producto
+Itziar Ferrando Hernandez,91,47,19,12,3:36:59,2023-04-09,"Solera, Padilla and Oliva",Administración,Solicitud de información
+Tecla Valera Serra,32,17,16,13,0:57:44,2023-05-08,Benítez Group,Ventas,Reclamación de factura
+Cándido de Ramis,0,2,8,24,1:11:58,2023-04-13,"Milla, Terrón and Baeza",Ventas,Reclamación de factura
+Emiliana Barros Pérez,13,22,4,21,1:50:19,2023-06-02,Rovira Ltd,Marketing,Reclamación de factura
+Ernesto Leoncio Osuna Capdevila,26,49,17,3,1:25:29,2023-05-23,Camps Group,Ventas,Solicitud de información
+Balduino Arana Dueñas,93,4,6,6,0:02:47,2023-03-22,"Solera, Padilla and Oliva",Ventas,Soporte técnico
+Ariel Peñas Bilbao,76,12,10,9,3:43:08,2023-03-13,Benítez Group,Ventas,Consulta de producto
+Jesusa Barceló Rubio,67,42,17,7,3:12:27,2023-04-28,"Milla, Terrón and Baeza",Marketing,Soporte técnico
+Azahara Saavedra Sevilla,71,28,12,14,3:57:01,2023-05-05,"Solera, Padilla and Oliva",Marketing,Solicitud de información
+Lorenza Gárate Salgado,72,13,19,5,0:02:04,2023-04-14,"Milla, Terrón and Baeza",Desarrollo,Solicitud de información
+Venceslás Vicente Carballo,48,23,20,24,0:30:42,2023-04-20,Anaya and Sons,Administración,Consulta de producto
+Julieta Montesinos Lledó,28,5,17,15,3:55:47,2023-04-09,"Cantón, Manzanares and Gisbert",Soporte,Reclamación de factura
+Adrián Rosell Beltrán,97,45,14,8,0:52:11,2023-04-17,Benítez Group,Administración,Reclamación de factura
+Amaro Berto Vaquero Ojeda,91,10,19,6,3:24:56,2023-04-21,"Solera, Padilla and Oliva",Administración,Soporte técnico
+Lázaro del Raya,35,9,20,3,0:16:41,2023-03-20,Benítez Group,Desarrollo,Seguimiento de pedido
+Filomena Laguna Vallejo,90,12,1,11,0:05:39,2023-06-06,Anaya and Sons,Marketing,Consulta de producto
+Jose Francisco Barrena-Pinedo,74,15,11,18,2:05:20,2023-03-26,Anaya and Sons,Soporte,Seguimiento de pedido
+Hector Bosch Ramírez,58,18,7,4,3:58:33,2023-05-13,"Solera, Padilla and Oliva",Ventas,Seguimiento de pedido
+Augusto Guardiola,43,43,19,20,2:01:29,2023-05-15,"Cantón, Manzanares and Gisbert",Desarrollo,Solicitud de información
+Baudelio Pozo Lobato,47,26,9,29,2:15:35,2023-04-12,Anaya and Sons,Soporte,Soporte técnico
+Pablo Augusto Cepeda Galindo,92,13,20,20,0:04:54,2023-03-24,Andrés-Mateu,Soporte,Consulta de producto
+Isidro Larrañaga Bosch,0,4,10,21,3:49:36,2023-04-08,Andrés-Mateu,Ventas,Soporte técnico
+Primitivo Fidel Alberto Ayuso,90,12,7,10,0:24:43,2023-05-21,"Cantón, Manzanares and Gisbert",Soporte,Soporte técnico
+Rufina Bautista Álvarez,56,24,20,25,1:55:19,2023-05-26,Pérez-Blanco,Marketing,Soporte técnico
+José Manuel Cabeza Lloret,41,28,7,25,3:29:51,2023-05-31,Rovira Ltd,Marketing,Seguimiento de pedido
+Dorita Fuentes,42,39,9,12,3:03:48,2023-04-05,"Cantón, Manzanares and Gisbert",Desarrollo,Consulta de producto
+Sancho Luciano Leiva Carlos,45,38,18,16,1:08:38,2023-04-14,"Cantón, Manzanares and Gisbert",Desarrollo,Seguimiento de pedido
+Amanda Lastra Paniagua,23,21,4,21,3:47:37,2023-04-28,"Cabrera, Llano and Font",Administración,Reclamación de factura
+Jacinta Castejón Crespi,9,1,0,28,1:20:09,2023-03-10,Rovira Ltd,Marketing,Seguimiento de pedido
+Nadia Hierro Codina,50,15,16,3,3:01:16,2023-03-30,"Cantón, Manzanares and Gisbert",Marketing,Solicitud de información
+Sandra Barriga Villena,71,45,20,15,1:58:26,2023-06-01,Benítez Group,Soporte,Solicitud de información
+Elpidio Herrero Cózar,72,35,20,17,3:20:13,2023-05-07,Rovira Ltd,Soporte,Reclamación de factura
+Gastón Acero Villalba,80,47,19,15,1:55:26,2023-03-28,Rovira Ltd,Soporte,Seguimiento de pedido
+Salud Antúnez Mariño,3,16,8,25,1:12:56,2023-05-13,Pérez-Blanco,Marketing,Reclamación de factura
+Elpidio Guillen Elorza,53,50,13,11,1:56:37,2023-05-31,Andrés-Mateu,Soporte,Soporte técnico
+Alicia Nogués Querol,8,20,13,6,1:30:13,2023-04-14,Anaya and Sons,Soporte,Seguimiento de pedido
+Maxi Martinez-Alemán,92,25,7,0,1:24:32,2023-03-20,"Cabrera, Llano and Font",Desarrollo,Solicitud de información
+Aníbal Tamarit Grande,50,6,12,21,3:23:49,2023-04-01,Camps Group,Marketing,Reclamación de factura
+Jordi Chaparro Campoy,22,18,20,21,0:59:43,2023-03-20,"Cantón, Manzanares and Gisbert",Marketing,Reclamación de factura
+Benjamín Lago Puig,1,48,16,14,0:20:06,2023-04-14,Anaya and Sons,Administración,Seguimiento de pedido
+Aníbal Pont Velasco,84,17,15,1,3:14:56,2023-03-19,Camps Group,Soporte,Soporte técnico
+Reynaldo Cañete,21,32,9,18,0:04:19,2023-04-16,Rovira Ltd,Marketing,Solicitud de información
+Hortensia de Casal,61,11,12,1,2:40:16,2023-03-22,Andrés-Mateu,Marketing,Soporte técnico
+Alba del Gelabert,73,19,3,10,1:02:55,2023-04-04,"Milla, Terrón and Baeza",Administración,Reclamación de factura
+Chema Machado Tomás,45,4,18,27,2:10:55,2023-05-09,"Solera, Padilla and Oliva",Marketing,Consulta de producto
+Clotilde Valenzuela Sastre,7,18,8,5,2:58:17,2023-05-12,Rovira Ltd,Soporte,Consulta de producto
+Jose Manuel Donaire Durán,16,45,9,4,3:09:59,2023-04-07,Anaya and Sons,Administración,Reclamación de factura
+Olimpia Martorell,99,26,17,5,1:34:54,2023-04-02,"Milla, Terrón and Baeza",Marketing,Solicitud de información
+Feliciana Rodríguez Domínguez,12,50,9,29,2:14:06,2023-04-13,Pérez-Blanco,Ventas,Reclamación de factura
+Matilde Becerra-Moles,79,39,2,24,0:44:54,2023-06-05,Benítez Group,Marketing,Solicitud de información
+Toribio Olmedo Sans,13,48,1,28,3:56:06,2023-03-29,Camps Group,Soporte,Solicitud de información
+Apolonia Alegria Barriga,11,7,5,26,3:55:50,2023-03-14,"Solera, Padilla and Oliva",Desarrollo,Soporte técnico
+Candelaria Arnal Álamo,44,14,16,23,3:53:38,2023-05-20,"Milla, Terrón and Baeza",Marketing,Soporte técnico
+Eladio Zamorano Guardiola,0,30,3,11,3:50:27,2023-03-14,Rovira Ltd,Desarrollo,Reclamación de factura
+Dionisio de Barberá,4,15,7,5,1:05:54,2023-04-23,Benítez Group,Ventas,Reclamación de factura
+Segismundo Bilbao,11,3,20,28,1:56:34,2023-03-15,Rovira Ltd,Soporte,Reclamación de factura
+Filomena Lorena Lobo Ariza,61,46,8,10,2:00:55,2023-05-21,"Cantón, Manzanares and Gisbert",Soporte,Solicitud de información
+Jessica Quiroga Oliva,99,47,14,18,2:43:38,2023-04-14,Rovira Ltd,Soporte,Reclamación de factura
+Marita Arjona-Torrents,86,27,14,16,1:54:07,2023-05-15,"Solera, Padilla and Oliva",Desarrollo,Reclamación de factura
+María Reina Bru,0,27,15,24,3:24:33,2023-05-10,Rovira Ltd,Ventas,Solicitud de información
+Agustín Arce Amorós,4,26,1,18,2:08:42,2023-04-24,Pérez-Blanco,Soporte,Reclamación de factura
+Adriana Figueras Burgos,7,46,0,7,2:27:12,2023-05-23,Camps Group,Ventas,Seguimiento de pedido
+Sofía Zaragoza Jove,61,39,17,25,3:19:37,2023-03-18,Andrés-Mateu,Soporte,Seguimiento de pedido
+Jafet de Montero,67,40,7,29,3:02:07,2023-05-16,Rovira Ltd,Ventas,Solicitud de información
+Elvira Leon Lloret,30,2,4,3,2:16:49,2023-06-05,Benítez Group,Soporte,Soporte técnico
+Tiburcio Izaguirre Egea,44,22,1,12,0:39:34,2023-04-12,Pérez-Blanco,Administración,Consulta de producto
+Laura de Barón,76,15,12,30,3:30:22,2023-05-21,Pérez-Blanco,Marketing,Soporte técnico
+Alondra Escobar Blázquez,6,0,6,26,0:43:35,2023-05-03,"Cabrera, Llano and Font",Marketing,Consulta de producto
+Anita Heras Gisbert,42,50,8,4,0:44:35,2023-03-26,Benítez Group,Soporte,Solicitud de información
+María Águila Sevilla,96,21,20,2,1:39:05,2023-05-20,"Milla, Terrón and Baeza",Desarrollo,Seguimiento de pedido
+Teobaldo Narciso Carlos Ortiz,41,3,3,28,2:36:00,2023-05-27,Pérez-Blanco,Administración,Reclamación de factura
+Raquel Soler,25,47,16,15,3:54:13,2023-05-18,"Milla, Terrón and Baeza",Soporte,Consulta de producto
+Amalia Nydia Iriarte Bejarano,72,31,11,23,1:58:42,2023-03-21,Pérez-Blanco,Ventas,Seguimiento de pedido
+Graciano Río Baños,38,26,16,12,2:01:07,2023-03-31,Pérez-Blanco,Administración,Seguimiento de pedido
+Gonzalo Nogués Galiano,62,27,1,19,3:42:40,2023-04-12,"Cabrera, Llano and Font",Soporte,Reclamación de factura
+Pascual Larrea Bermúdez,54,2,18,21,1:41:44,2023-05-13,Camps Group,Administración,Consulta de producto
+Marciano Mateu Cordero,80,40,16,16,2:20:09,2023-05-31,"Cantón, Manzanares and Gisbert",Soporte,Solicitud de información
+Aitor Pardo Crespo,86,3,9,23,1:33:30,2023-04-28,"Cabrera, Llano and Font",Desarrollo,Consulta de producto
+Isa Ureña Larrea,38,11,10,24,2:16:48,2023-03-24,Camps Group,Ventas,Solicitud de información
+Alexandra Castilla Giner,17,41,1,27,3:48:04,2023-05-14,"Cantón, Manzanares and Gisbert",Administración,Consulta de producto
+Josep Galvez,68,26,8,3,3:49:09,2023-04-18,Anaya and Sons,Marketing,Soporte técnico
+Cintia Bernal Boada,37,15,3,30,3:46:16,2023-04-18,Pérez-Blanco,Soporte,Soporte técnico
+Eutimio Nicolás Muro,10,2,10,5,1:16:36,2023-03-22,Rovira Ltd,Administración,Reclamación de factura
+Berto Cuenca Romeu,100,50,15,12,0:21:09,2023-06-05,"Solera, Padilla and Oliva",Desarrollo,Consulta de producto
+María Teresa de Rey,34,7,6,26,3:04:06,2023-03-24,"Solera, Padilla and Oliva",Desarrollo,Solicitud de información
+Edelmira Verdugo-Lucas,68,1,12,6,0:13:31,2023-05-24,Camps Group,Soporte,Seguimiento de pedido
+Vicenta Benet Castilla,38,2,14,15,0:23:17,2023-05-22,"Cantón, Manzanares and Gisbert",Marketing,Solicitud de información
+Albert del Cózar,38,17,3,18,2:35:06,2023-05-18,Pérez-Blanco,Administración,Reclamación de factura
+Merche Sandoval Pozo,30,17,20,8,2:49:55,2023-03-29,Rovira Ltd,Ventas,Seguimiento de pedido
+Irene Cruz Colomer,20,22,18,28,2:07:39,2023-03-31,Camps Group,Ventas,Solicitud de información
+Che del Vallés,18,39,13,29,1:57:24,2023-06-04,Benítez Group,Marketing,Solicitud de información
+José Mari Posada Serra,63,13,18,16,0:08:11,2023-03-22,Camps Group,Administración,Seguimiento de pedido
+Agustina Ureña Mora,69,14,16,6,3:17:26,2023-04-08,"Solera, Padilla and Oliva",Administración,Soporte técnico
+Toño Vives Madrigal,49,8,12,10,2:21:34,2023-05-27,Anaya and Sons,Marketing,Soporte técnico
+Delfina Tejada Echeverría,23,29,2,2,1:50:19,2023-03-27,Camps Group,Administración,Soporte técnico
+Noemí Luna-Ramos,47,7,6,25,1:16:32,2023-05-13,Pérez-Blanco,Marketing,Consulta de producto
+Nilda Domínguez-Zabaleta,62,44,16,12,3:07:24,2023-04-08,Benítez Group,Desarrollo,Solicitud de información
+Emma Guzman Llopis,21,29,17,0,0:19:08,2023-03-19,"Cantón, Manzanares and Gisbert",Marketing,Solicitud de información
+María Ángeles Prado Ledesma,43,7,0,13,2:55:12,2023-04-04,Pérez-Blanco,Soporte,Seguimiento de pedido
+Josefina Rius Bueno,41,27,19,19,0:24:09,2023-04-30,Pérez-Blanco,Marketing,Consulta de producto
+Itziar Ferrando Hernandez,91,47,19,12,3:36:59,2023-04-09,"Solera, Padilla and Oliva",Administración,Solicitud de información
+Tecla Valera Serra,32,17,16,13,0:57:44,2023-05-08,Benítez Group,Ventas,Reclamación de factura
+Cándido de Ramis,0,2,8,24,1:11:58,2023-04-13,"Milla, Terrón and Baeza",Ventas,Reclamación de factura
+Emiliana Barros Pérez,13,22,4,21,1:50:19,2023-06-02,Rovira Ltd,Marketing,Reclamación de factura
+Ernesto Leoncio Osuna Capdevila,26,49,17,3,1:25:29,2023-05-23,Camps Group,Ventas,Solicitud de información
+Balduino Arana Dueñas,93,4,6,6,0:02:47,2023-03-22,"Solera, Padilla and Oliva",Ventas,Soporte técnico
+Ariel Peñas Bilbao,76,12,10,9,3:43:08,2023-03-13,Benítez Group,Ventas,Consulta de producto
+Jesusa Barceló Rubio,67,42,17,7,3:12:27,2023-04-28,"Milla, Terrón and Baeza",Marketing,Soporte técnico
+Azahara Saavedra Sevilla,71,28,12,14,3:57:01,2023-05-05,"Solera, Padilla and Oliva",Marketing,Solicitud de información
+Lorenza Gárate Salgado,72,13,19,5,0:02:04,2023-04-14,"Milla, Terrón and Baeza",Desarrollo,Solicitud de información
+Venceslás Vicente Carballo,48,23,20,24,0:30:42,2023-04-20,Anaya and Sons,Administración,Consulta de producto
+Julieta Montesinos Lledó,28,5,17,15,3:55:47,2023-04-09,"Cantón, Manzanares and Gisbert",Soporte,Reclamación de factura
+Adrián Rosell Beltrán,97,45,14,8,0:52:11,2023-04-17,Benítez Group,Administración,Reclamación de factura
+Amaro Berto Vaquero Ojeda,91,10,19,6,3:24:56,2023-04-21,"Solera, Padilla and Oliva",Administración,Soporte técnico
+Lázaro del Raya,35,9,20,3,0:16:41,2023-03-20,Benítez Group,Desarrollo,Seguimiento de pedido
+Filomena Laguna Vallejo,90,12,1,11,0:05:39,2023-06-06,Anaya and Sons,Marketing,Consulta de producto
+Jose Francisco Barrena-Pinedo,74,15,11,18,2:05:20,2023-03-26,Anaya and Sons,Soporte,Seguimiento de pedido
+Hector Bosch Ramírez,58,18,7,4,3:58:33,2023-05-13,"Solera, Padilla and Oliva",Ventas,Seguimiento de pedido
+Augusto Guardiola,43,43,19,20,2:01:29,2023-05-15,"Cantón, Manzanares and Gisbert",Desarrollo,Solicitud de información
+Baudelio Pozo Lobato,47,26,9,29,2:15:35,2023-04-12,Anaya and Sons,Soporte,Soporte técnico
+Pablo Augusto Cepeda Galindo,92,13,20,20,0:04:54,2023-03-24,Andrés-Mateu,Soporte,Consulta de producto
+Isidro Larrañaga Bosch,0,4,10,21,3:49:36,2023-04-08,Andrés-Mateu,Ventas,Soporte técnico
+Primitivo Fidel Alberto Ayuso,90,12,7,10,0:24:43,2023-05-21,"Cantón, Manzanares and Gisbert",Soporte,Soporte técnico
+Rufina Bautista Álvarez,56,24,20,25,1:55:19,2023-05-26,Pérez-Blanco,Marketing,Soporte técnico
+José Manuel Cabeza Lloret,41,28,7,25,3:29:51,2023-05-31,Rovira Ltd,Marketing,Seguimiento de pedido
+Dorita Fuentes,42,39,9,12,3:03:48,2023-04-05,"Cantón, Manzanares and Gisbert",Desarrollo,Consulta de producto
+Sancho Luciano Leiva Carlos,45,38,18,16,1:08:38,2023-04-14,"Cantón, Manzanares and Gisbert",Desarrollo,Seguimiento de pedido
+Amanda Lastra Paniagua,23,21,4,21,3:47:37,2023-04-28,"Cabrera, Llano and Font",Administración,Reclamación de factura
+Jacinta Castejón Crespi,9,1,0,28,1:20:09,2023-03-10,Rovira Ltd,Marketing,Seguimiento de pedido
+Nadia Hierro Codina,50,15,16,3,3:01:16,2023-03-30,"Cantón, Manzanares and Gisbert",Marketing,Solicitud de información
+Sandra Barriga Villena,71,45,20,15,1:58:26,2023-06-01,Benítez Group,Soporte,Solicitud de información
+Elpidio Herrero Cózar,72,35,20,17,3:20:13,2023-05-07,Rovira Ltd,Soporte,Reclamación de factura
+Gastón Acero Villalba,80,47,19,15,1:55:26,2023-03-28,Rovira Ltd,Soporte,Seguimiento de pedido
+Salud Antúnez Mariño,3,16,8,25,1:12:56,2023-05-13,Pérez-Blanco,Marketing,Reclamación de factura
+Elpidio Guillen Elorza,53,50,13,11,1:56:37,2023-05-31,Andrés-Mateu,Soporte,Soporte técnico
+Alicia Nogués Querol,8,20,13,6,1:30:13,2023-04-14,Anaya and Sons,Soporte,Seguimiento de pedido
+Maxi Martinez-Alemán,92,25,7,0,1:24:32,2023-03-20,"Cabrera, Llano and Font",Desarrollo,Solicitud de información
+Aníbal Tamarit Grande,50,6,12,21,3:23:49,2023-04-01,Camps Group,Marketing,Reclamación de factura
+Jordi Chaparro Campoy,22,18,20,21,0:59:43,2023-03-20,"Cantón, Manzanares and Gisbert",Marketing,Reclamación de factura
+Benjamín Lago Puig,1,48,16,14,0:20:06,2023-04-14,Anaya and Sons,Administración,Seguimiento de pedido
+Aníbal Pont Velasco,84,17,15,1,3:14:56,2023-03-19,Camps Group,Soporte,Soporte técnico
+Reynaldo Cañete,21,32,9,18,0:04:19,2023-04-16,Rovira Ltd,Marketing,Solicitud de información
+Hortensia de Casal,61,11,12,1,2:40:16,2023-03-22,Andrés-Mateu,Marketing,Soporte técnico
+Alba del Gelabert,73,19,3,10,1:02:55,2023-04-04,"Milla, Terrón and Baeza",Administración,Reclamación de factura
+Chema Machado Tomás,45,4,18,27,2:10:55,2023-05-09,"Solera, Padilla and Oliva",Marketing,Consulta de producto
+Clotilde Valenzuela Sastre,7,18,8,5,2:58:17,2023-05-12,Rovira Ltd,Soporte,Consulta de producto
+Jose Manuel Donaire Durán,16,45,9,4,3:09:59,2023-04-07,Anaya and Sons,Administración,Reclamación de factura
+Olimpia Martorell,99,26,17,5,1:34:54,2023-04-02,"Milla, Terrón and Baeza",Marketing,Solicitud de información
+Feliciana Rodríguez Domínguez,12,50,9,29,2:14:06,2023-04-13,Pérez-Blanco,Ventas,Reclamación de factura
+Matilde Becerra-Moles,79,39,2,24,0:44:54,2023-06-05,Benítez Group,Marketing,Solicitud de información
+Toribio Olmedo Sans,13,48,1,28,3:56:06,2023-03-29,Camps Group,Soporte,Solicitud de información
+Apolonia Alegria Barriga,11,7,5,26,3:55:50,2023-03-14,"Solera, Padilla and Oliva",Desarrollo,Soporte técnico
+Candelaria Arnal Álamo,44,14,16,23,3:53:38,2023-05-20,"Milla, Terrón and Baeza",Marketing,Soporte técnico
+Eladio Zamorano Guardiola,0,30,3,11,3:50:27,2023-03-14,Rovira Ltd,Desarrollo,Reclamación de factura
+Dionisio de Barberá,4,15,7,5,1:05:54,2023-04-23,Benítez Group,Ventas,Reclamación de factura
+Segismundo Bilbao,11,3,20,28,1:56:34,2023-03-15,Rovira Ltd,Soporte,Reclamación de factura
+Filomena Lorena Lobo Ariza,61,46,8,10,2:00:55,2023-05-21,"Cantón, Manzanares and Gisbert",Soporte,Solicitud de información
+Jessica Quiroga Oliva,99,47,14,18,2:43:38,2023-04-14,Rovira Ltd,Soporte,Reclamación de factura
+Marita Arjona-Torrents,86,27,14,16,1:54:07,2023-05-15,"Solera, Padilla and Oliva",Desarrollo,Reclamación de factura
+María Reina Bru,0,27,15,24,3:24:33,2023-05-10,Rovira Ltd,Ventas,Solicitud de información
+Agustín Arce Amorós,4,26,1,18,2:08:42,2023-04-24,Pérez-Blanco,Soporte,Reclamación de factura

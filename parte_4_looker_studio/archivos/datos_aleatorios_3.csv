@@ -1,0 +1,101 @@
+Usuario,Llamadas contestadas,Llamadas perdidas,Llamadas rechazadas,Llamadas derivadas,Tiempo hablado,Fecha llamada,Empresa,Área de trabajo,Motivo de llamada
+Felipe Hernán Guzman Olmedo,87,23,2,19,1:13:55,2023-07-15,"Gómez, Zamora and Rivas",Investigación,Cancelación de servicio
+Loida Girón,98,41,18,16,3:19:50,2023-07-04,"Gómez, Zamora and Rivas",Logística,Información adicional
+Fulgencio Rovira-Cervantes,50,31,16,4,0:44:34,2023-07-11,"Andrés, Machado and Gisbert",Calidad,Cancelación de servicio
+Mohamed Carrasco Palomo,97,45,19,11,0:41:04,2023-07-03,Arregui-Morata,Investigación,Cancelación de servicio
+Marcos Rosado Vélez,65,40,16,12,0:52:39,2023-07-30,Sainz-Gargallo,Comunicación,Información adicional
+Gervasio del Olmedo,23,47,14,17,2:10:19,2023-07-26,"Sola, Vilalta and Morcillo",Investigación,Información adicional
+Teo Gallo Uribe,28,7,13,28,1:42:31,2023-07-07,Bertrán-Sánchez,Investigación,Información adicional
+Vera Bernat Gonzalo,40,4,14,16,2:12:53,2023-07-31,"Noguera, Ortega and Pino",Logística,Información adicional
+Cruz de Paz,11,25,15,6,1:52:59,2023-07-26,"Noguera, Ortega and Pino",Investigación,Problema técnico
+Nilo Mayol Carranza,14,29,2,17,1:06:19,2023-07-03,"Sola, Vilalta and Morcillo",Logística,Seguimiento de solicitud
+Carmelo Vallés Gaya,27,43,4,5,1:42:24,2023-07-01,Cerezo-Sanmartín,Comunicación,Seguimiento de solicitud
+Edgardo Sanabria Cruz,34,0,16,27,2:51:13,2023-07-06,Bertrán-Sánchez,Comunicación,Problema técnico
+Atilio Cózar Arribas,73,40,9,3,1:44:43,2023-07-21,"Girón, Villa and Galván",Logística,Cancelación de servicio
+Raimundo Rios Amor,35,35,19,24,0:46:37,2023-07-29,Cerezo-Sanmartín,Investigación,Problema técnico
+Macario del Ropero,47,49,7,14,3:26:52,2023-07-11,Gargallo PLC,Logística,Seguimiento de solicitud
+Heliodoro Estévez-Luján,14,3,15,26,2:20:51,2023-07-15,Arregui-Morata,Recursos Humanos,Información adicional
+Gastón Osorio,47,25,15,13,3:14:15,2023-07-27,Gargallo PLC,Comunicación,Nueva consulta
+Mariana Roca-Calzada,49,37,7,4,3:07:18,2023-07-31,"Andrés, Machado and Gisbert",Investigación,Problema técnico
+Pancho Uría Juárez,57,11,13,10,3:47:20,2023-07-21,"Sola, Vilalta and Morcillo",Logística,Cancelación de servicio
+Amado del Vilar,38,6,5,9,1:33:22,2023-07-25,"Gómez, Zamora and Rivas",Calidad,Cancelación de servicio
+Florencio Moll Planas,78,50,2,14,3:03:14,2023-07-09,"Andrés, Machado and Gisbert",Comunicación,Problema técnico
+Ángeles Requena Barrena,67,17,9,19,1:12:21,2023-07-22,Sainz-Gargallo,Logística,Información adicional
+Lara Castelló Anglada,95,15,15,6,0:51:24,2023-07-31,Arregui-Morata,Logística,Seguimiento de solicitud
+Loida Porras Carballo,84,39,14,17,0:20:47,2023-07-18,"Sola, Vilalta and Morcillo",Investigación,Cancelación de servicio
+Pascual Fuster Perelló,55,29,17,0,1:16:26,2023-07-08,Bertrán-Sánchez,Comunicación,Seguimiento de solicitud
+Paola Carrión,33,42,11,0,2:12:03,2023-07-27,Arregui-Morata,Investigación,Cancelación de servicio
+María José Marquez Mur,23,6,16,11,3:49:42,2023-07-23,Arregui-Morata,Recursos Humanos,Seguimiento de solicitud
+Rufino Ribas,56,10,9,4,0:53:38,2023-07-29,Sainz-Gargallo,Recursos Humanos,Información adicional
+Adán Uribe Cózar,90,13,5,25,1:40:39,2023-07-31,"Girón, Villa and Galván",Recursos Humanos,Información adicional
+Palmira Carvajal,55,23,10,12,3:21:33,2023-07-21,"Noguera, Ortega and Pino",Investigación,Nueva consulta
+Rosalinda Hierro,64,43,11,30,0:41:48,2023-07-07,Gargallo PLC,Logística,Cancelación de servicio
+Olalla Cerdá-Roldan,93,14,5,0,1:50:15,2023-07-23,"Gómez, Zamora and Rivas",Recursos Humanos,Seguimiento de solicitud
+Mamen Barroso Parejo,77,31,8,30,3:17:22,2023-07-16,Cerezo-Sanmartín,Recursos Humanos,Seguimiento de solicitud
+Hernando Huertas-Verdugo,78,11,1,1,3:59:09,2023-07-08,"Andrés, Machado and Gisbert",Investigación,Cancelación de servicio
+Claudia Llorente,9,38,8,25,0:34:17,2023-07-22,Arregui-Morata,Investigación,Seguimiento de solicitud
+Calisto Mayo Verdugo,26,0,2,5,2:58:04,2023-07-27,Bertrán-Sánchez,Calidad,Información adicional
+Edgardo Diego Polo,44,26,0,1,3:44:23,2023-07-18,"Gómez, Zamora and Rivas",Recursos Humanos,Seguimiento de solicitud
+Fidela Verdú Anaya,63,46,0,4,0:25:12,2023-07-25,Sainz-Gargallo,Logística,Información adicional
+Anastasio Collado-Terrón,91,49,11,3,1:33:03,2023-07-28,Bertrán-Sánchez,Calidad,Problema técnico
+Lara Dominguez Montalbán,53,28,8,0,3:24:16,2023-07-06,Arregui-Morata,Investigación,Nueva consulta
+Cruz Asenjo Valenzuela,25,48,11,16,3:40:33,2023-07-15,Gargallo PLC,Recursos Humanos,Cancelación de servicio
+Eduardo Hierro Canals,50,14,15,4,3:01:38,2023-07-12,"Girón, Villa and Galván",Logística,Nueva consulta
+Dorita Romeu-Ortiz,71,5,16,30,0:00:03,2023-07-13,Bertrán-Sánchez,Logística,Seguimiento de solicitud
+José Mari Alba,43,30,1,29,0:12:36,2023-07-28,Sainz-Gargallo,Logística,Seguimiento de solicitud
+Maribel Rodríguez Figueras,74,46,20,27,1:09:10,2023-07-25,Cerezo-Sanmartín,Comunicación,Problema técnico
+Baudelio Marciano Ripoll García,22,3,4,22,2:37:23,2023-07-20,Cerezo-Sanmartín,Logística,Nueva consulta
+Dalila Amador Garcia,56,26,12,18,0:35:06,2023-07-11,"Noguera, Ortega and Pino",Logística,Seguimiento de solicitud
+Chus Mora Puente,41,47,13,14,3:08:02,2023-07-24,"Noguera, Ortega and Pino",Recursos Humanos,Información adicional
+Victoria Baquero Mancebo,62,49,1,24,3:48:36,2023-07-09,Sainz-Gargallo,Comunicación,Seguimiento de solicitud
+Marisol Quirós Cárdenas,70,24,19,21,0:08:28,2023-07-09,Arregui-Morata,Logística,Nueva consulta
+Chelo Pinto-Villar,80,19,16,29,0:32:59,2023-07-03,Cerezo-Sanmartín,Calidad,Seguimiento de solicitud
+Calisto Durán Tejada,40,25,20,27,0:43:49,2023-07-06,"Sola, Vilalta and Morcillo",Logística,Problema técnico
+Jonatan Feliu Benítez,23,3,12,29,0:25:32,2023-07-09,"Girón, Villa and Galván",Comunicación,Nueva consulta
+Ainoa Cáceres Mateu,93,12,0,12,0:30:12,2023-07-24,Gargallo PLC,Logística,Seguimiento de solicitud
+Ángel Moliner-Aguado,79,6,1,1,2:13:39,2023-07-19,Arregui-Morata,Comunicación,Información adicional
+Jovita Giralt,63,48,3,30,0:14:57,2023-07-22,"Sola, Vilalta and Morcillo",Logística,Cancelación de servicio
+Ignacio Cabrero Galan,7,29,1,14,0:08:22,2023-07-14,"Gómez, Zamora and Rivas",Comunicación,Nueva consulta
+Manuela Jáuregui Rosa,71,28,11,18,0:15:11,2023-07-26,"Andrés, Machado and Gisbert",Investigación,Nueva consulta
+Fidela Avilés Pozuelo,31,48,8,1,2:43:07,2023-07-06,Arregui-Morata,Calidad,Cancelación de servicio
+Raimundo Calderón Barba,43,32,9,24,2:33:12,2023-07-01,"Noguera, Ortega and Pino",Investigación,Nueva consulta
+Remigio Noriega Mascaró,77,9,4,1,1:18:30,2023-07-27,Bertrán-Sánchez,Comunicación,Cancelación de servicio
+Clementina Jordán Bellido,13,20,10,5,1:30:22,2023-07-10,"Girón, Villa and Galván",Recursos Humanos,Problema técnico
+Conrado Andrade Aller,59,12,5,23,1:12:30,2023-07-04,Cerezo-Sanmartín,Recursos Humanos,Problema técnico
+Elpidio Cisneros,83,50,11,22,1:27:03,2023-07-10,Bertrán-Sánchez,Logística,Problema técnico
+Ricarda Rodríguez Fabra,88,24,2,25,0:49:43,2023-07-28,Cerezo-Sanmartín,Recursos Humanos,Seguimiento de solicitud
+Nicolasa Luz Mosquera,99,50,18,27,3:30:03,2023-07-28,Arregui-Morata,Investigación,Nueva consulta
+Eli Abascal Santamaria,36,12,11,5,2:49:01,2023-07-02,Bertrán-Sánchez,Logística,Seguimiento de solicitud
+Alonso Zapata Alcalde,8,45,4,22,2:57:22,2023-07-11,"Gómez, Zamora and Rivas",Logística,Cancelación de servicio
+Galo Lasa,62,10,13,30,1:09:55,2023-07-30,"Noguera, Ortega and Pino",Comunicación,Cancelación de servicio
+Aníbal Quero Cámara,74,40,8,16,2:31:29,2023-07-01,"Andrés, Machado and Gisbert",Recursos Humanos,Información adicional
+Hilda Lamas Laguna,20,26,5,18,2:25:24,2023-07-19,"Noguera, Ortega and Pino",Recursos Humanos,Cancelación de servicio
+Mateo Molina,71,31,11,5,3:07:47,2023-07-25,"Girón, Villa and Galván",Logística,Cancelación de servicio
+Eugenia Velasco Correa,80,8,7,25,2:53:28,2023-07-09,"Andrés, Machado and Gisbert",Comunicación,Información adicional
+Osvaldo Huertas-Pereira,74,48,5,13,3:30:08,2023-07-28,Gargallo PLC,Logística,Problema técnico
+Gabino Guzmán Bonilla,61,29,10,17,0:01:09,2023-07-13,"Sola, Vilalta and Morcillo",Comunicación,Seguimiento de solicitud
+Severino Mur-Pareja,69,23,13,13,0:52:22,2023-07-23,"Girón, Villa and Galván",Investigación,Información adicional
+Lourdes Ribes Goicoechea,64,9,1,20,0:33:08,2023-07-29,Sainz-Gargallo,Logística,Cancelación de servicio
+Santiago Blanca-Pallarès,3,1,18,8,0:15:20,2023-07-08,Bertrán-Sánchez,Recursos Humanos,Cancelación de servicio
+Vito José Mari España Báez,28,19,4,4,1:52:55,2023-07-10,"Andrés, Machado and Gisbert",Logística,Seguimiento de solicitud
+Eligio Jiménez Herrero,10,2,9,28,0:54:01,2023-07-29,Cerezo-Sanmartín,Logística,Información adicional
+Carolina Soriano Iglesia,76,47,12,9,3:50:42,2023-07-21,"Noguera, Ortega and Pino",Calidad,Problema técnico
+Pelayo Solana,82,29,5,23,2:11:27,2023-07-07,"Gómez, Zamora and Rivas",Recursos Humanos,Información adicional
+Íñigo Sosa,34,40,0,2,3:59:23,2023-07-23,"Gómez, Zamora and Rivas",Logística,Problema técnico
+Ruben Cortés Barral,2,24,12,13,0:24:28,2023-07-05,Cerezo-Sanmartín,Investigación,Cancelación de servicio
+Ruperto del Luz,11,18,10,15,0:24:53,2023-07-30,Gargallo PLC,Calidad,Problema técnico
+Óscar Rueda Salcedo,96,35,6,8,3:03:57,2023-07-31,"Girón, Villa and Galván",Calidad,Información adicional
+Victoria Ochoa Ferrán,37,40,13,4,2:45:24,2023-07-30,Sainz-Gargallo,Recursos Humanos,Información adicional
+Corona Silva Roldan,18,28,20,27,3:05:13,2023-07-25,"Sola, Vilalta and Morcillo",Calidad,Seguimiento de solicitud
+Ángeles de Peinado,32,43,12,9,1:55:19,2023-07-21,Arregui-Morata,Investigación,Cancelación de servicio
+Eloy Abril Pardo,71,47,1,24,3:15:41,2023-07-14,Cerezo-Sanmartín,Investigación,Seguimiento de solicitud
+Cosme Rodolfo Puig Amo,10,19,10,19,3:41:43,2023-07-01,Sainz-Gargallo,Logística,Nueva consulta
+Calixto Milla Gordillo,81,43,2,5,1:02:28,2023-07-08,Bertrán-Sánchez,Recursos Humanos,Nueva consulta
+Calisto Orozco Manzano,47,23,9,26,3:04:51,2023-07-13,"Sola, Vilalta and Morcillo",Comunicación,Problema técnico
+Armando Sedano Cortes,35,16,19,1,1:45:15,2023-07-19,"Noguera, Ortega and Pino",Calidad,Seguimiento de solicitud
+Alma Luque Tomas,22,8,13,20,1:36:14,2023-07-07,"Sola, Vilalta and Morcillo",Logística,Cancelación de servicio
+Juan Antonio de Duarte,35,5,7,17,2:06:14,2023-07-02,"Noguera, Ortega and Pino",Comunicación,Problema técnico
+Héctor Cortina Carbó,22,27,4,23,2:27:16,2023-07-07,"Girón, Villa and Galván",Recursos Humanos,Nueva consulta
+Mar Guardia Gonzalez,70,1,0,10,1:29:49,2023-07-11,"Girón, Villa and Galván",Comunicación,Cancelación de servicio
+Lorenzo Galiano Puig,25,4,19,4,0:22:05,2023-07-25,Gargallo PLC,Calidad,Nueva consulta
+Nicolás Arnaiz Alarcón,62,46,8,20,3:22:19,2023-07-27,Cerezo-Sanmartín,Investigación,Seguimiento de solicitud
